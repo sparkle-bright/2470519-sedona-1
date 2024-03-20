@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анна Пантелеева](https://up.htmlacademy.ru/htmlcss-individual/1/user/2470519).
-* Наставник: `Артем Картавый`.
+* Наставник: `Артем Картавый https://htmlacademy.ru/profile/artem_k`.
 
 ---
 
